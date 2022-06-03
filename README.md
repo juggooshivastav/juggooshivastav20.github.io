@@ -1,2 +1,2 @@
-# juggooshivastav20.github.io
+# juggooshivastav.github.io
 this is a website
