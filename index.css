@@ -1,0 +1,11 @@
+/**{*/
+ /*   background-color:black;*/
+ /*}*/
+
+ .div1{
+     height: ;
+     width: 1080px;
+     border: 1px solid black;
+     border-radius: 10px;
+          background-image: -webkit-image-set(https://wallpapercave.com/wp/5IMSHl3.jpg);
+ }
